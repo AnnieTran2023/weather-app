@@ -7,6 +7,13 @@
     border-radius: 12px;
     background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
 }
+.day{
+    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+}
+
+.night{
+    background-image: linear-gradient(to bottom, #051937, #1b2b59, #393d7d, #5c4ea0, #845ec2);
+}
 
 .top-bar{
     display:flex;
