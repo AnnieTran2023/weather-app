@@ -87,10 +87,10 @@ export const WeatherApp = () => {
             <img src={wicon} alt="" className="" />
         </div>
         <div className="weather-temp">
-            24°c
+            °c
         </div>
         <div className="weather-location">
-            City
+            city
         </div>
         <div className="data-container">
             <div className="element">
