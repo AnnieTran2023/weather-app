@@ -3,6 +3,10 @@
 ## Description
 This project is a Weather App created using React.js. It utilizes the OpenWeatherMap API to fetch weather data based on the user's input location. The app displays current weather information such as temperature, humidity, and wind speed, along with an appropriate weather icon representing the current conditions.
 
+<p align="center">
+  <img src="screenshot.png" alt="weatherapp" height = "500">
+</p>
+
 ## Features
 - Search functionality to find weather information for a specific city.
 - Dynamic weather icon based on the current weather conditions.
